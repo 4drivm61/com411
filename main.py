@@ -1,0 +1,12 @@
+print("System Failure Imminent!")
+print("System reboot has been initiated...")
+print()
+print("...rebooting sensory system")
+print("...rebooting output motors")
+print("...rebooting hover")
+print()
+print("System onine.")
+
+print("What is your name human?")
+name = input()
+print("It is nice to meet you", name)
